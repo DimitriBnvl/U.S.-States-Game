@@ -2,7 +2,7 @@ import turtle
 import pandas
 from mapping import Map
 
-#---------------TURTLE MODULE---------------#
+#----------------TURTLE MODULE----------------#
 screen = turtle.Screen()
 mapping = Map()
 screen.title("U.S. States Game")
@@ -13,12 +13,12 @@ turtle.shape(image)
 #---------------PANDAS MODULE---------------#
 data = pandas.read_csv("50_states.csv")
 
-#---------------GAME DATA---------------#
+#-----------------GAME DATA-----------------#
 states = data.state.to_list()
 x_cords = data.x.to_list()
 y_cords = data.y.to_list()
 
-#---------------GAME BRAIN---------------#
+#-----------------GAME BRAIN-----------------#
 answered_states = []
 prompt = "Guess the state"
 while len(answered_states) < 50:
