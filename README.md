@@ -1,6 +1,10 @@
-# U.S. States Game
+<img width="725" height="493" alt="Screenshot 2026-01-28 at 13 48 39" src="https://github.com/user-attachments/assets/4c49cbb6-70fb-4320-8472-47c4b31e77d6" /># U.S. States Game
 Do you think you can type out the names of all 50 U.S. States? 
 Well, as part of Day 25 of 100 Days of Code I dove into creating a game in which the user is tasked with naming the all the states!
+
+<p align="center">
+  <img width="725" height="493" alt="Screenshot 2026-01-28 at 13 48 39" src="https://github.com/user-attachments/assets/d38a009c-d78d-4b73-970e-939f6fe65c0f" />
+<p/>
 
 ## Tech Stack
 - Python
